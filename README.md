@@ -132,7 +132,9 @@ if (count($pagedDocuments) > 0) {
 ```
 
 **Conclusão**<br>
-Este projeto demonstra como combinar PHP com Bootstrap e algumas bibliotecas JavaScript para criar uma aplicação web funcional e interativa. A aplicação pode ser facilmente adaptada para lidar com dados reais e ser integrada a um sistema mais complexo de gestão de documentos. As funcionalidades de busca avançada e paginação tornam a aplicação escalável e eficiente, proporcionando uma ótima experiência de usuário
+Este projeto demonstra como combinar PHP com Bootstrap e algumas bibliotecas JavaScript para criar uma aplicação web funcional e interativa. A aplicação pode ser facilmente adaptada para lidar com dados reais e ser integrada a um sistema mais complexo de gestão de documentos. As funcionalidades de busca avançada e paginação tornam a aplicação escalável e eficiente, proporcionando uma ótima experiência de usuário. 
+> [!NOTE]
+> Código completo se encontra nos arquivos.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver ideias de melhorias, correções de bugs ou novas funcionalidades, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
